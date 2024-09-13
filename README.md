@@ -51,7 +51,7 @@ I am a passionate web designer and cybersecurity enthusiast with a background in
   
 - **Foundations of Cybersecurity**  
    Covered network security, risk management, and practical solutions for securing information systems.  
-   [View Certificate](https://github.com/user-attachments/files/16993326/connect.and.protect.cert.3.pdf)
+   [View Certificate](https://github.com/user-attachments/files/16993337/foundation.cert.1.pdf)
 
 - **Connect and Protect: Networks and Network Security**  
    Focused on network protocols, firewall configurations, and intrusion prevention.  
@@ -63,7 +63,7 @@ I am a passionate web designer and cybersecurity enthusiast with a background in
 
 - **Google AI Essentials: Advanced Concepts**  
    Explored advanced AI tools and their applications in cybersecurity.  
-   [View Certificate] (https://github.com/user-attachments/files/16993337/foundation.cert.1.pdf)
+   [View Certificate](https://github.com/user-attachments/files/16993339/google.ai.Essentials.cert.pdf)
 
 ---
 
