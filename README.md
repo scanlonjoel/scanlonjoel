@@ -55,7 +55,7 @@ I am a passionate web designer and cybersecurity enthusiast with a background in
 
 - **Connect and Protect: Networks and Network Security**  
    Focused on network protocols, firewall configurations, and intrusion prevention.  
-   [View Certificate](https://your-pdf-link.com/certificate3.pdf)
+   [View Certificate](https://github.com/user-attachments/files/16993339/google.ai.Essentials.cert.pdf)
 
 - **Play It Safe: Manage Security Risks**  
    Managed security risks through risk identification, analysis, and mitigation.  
