@@ -47,11 +47,11 @@ I am a passionate web designer and cybersecurity enthusiast with a background in
 
 - **Google AI Essentials**  
    Tools of the Trade: Linux and SQL, network security, and AI-based solutions.  
-   [connect and protect cert 3.pdf](https://github.com/user-attachments/files/16993326/connect.and.protect.cert.3.pdf)
-
+    [View Certificate](https://github.com/user-attachments/files/16993342/tools.of.trade.linix.and.sql.cert.4.pdf)
+  
 - **Foundations of Cybersecurity**  
    Covered network security, risk management, and practical solutions for securing information systems.  
-  [foundation cert 1.pdf](https://github.com/user-attachments/files/16993337/foundation.cert.1.pdf)
+   [View Certificate](https://github.com/user-attachments/files/16993326/connect.and.protect.cert.3.pdf)
 
 - **Connect and Protect: Networks and Network Security**  
    Focused on network protocols, firewall configurations, and intrusion prevention.  
@@ -59,11 +59,11 @@ I am a passionate web designer and cybersecurity enthusiast with a background in
 
 - **Play It Safe: Manage Security Risks**  
    Managed security risks through risk identification, analysis, and mitigation.  
-   [View Certificate](https://your-pdf-link.com/certificate4.pdf)
+   [View Certificate](https://github.com/user-attachments/files/16993341/play.safe.cert.2.pdf)
 
 - **Google AI Essentials: Advanced Concepts**  
    Explored advanced AI tools and their applications in cybersecurity.  
-   [View Certificate](https://your-pdf-link.com/certificate5.pdf)
+   [View Certificate] (https://github.com/user-attachments/files/16993337/foundation.cert.1.pdf)
 
 ---
 
